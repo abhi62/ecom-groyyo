@@ -2,6 +2,7 @@
   "short_name": "groyyo-ecom App",
   "name": "groyyo-ecom ",
   "description": "groyyo-ecom",
+  "theme_color": "#1976d2",
   "icons": [
     {
       "src": "./icons/icon-48x48.png",
@@ -51,12 +52,12 @@
     {
       "src": "./icons/maskable.png",
       "type": "image/png",
-      "sizes": "192x192"
+      "sizes": "192x192",
+      "purpose": "maskable"
     }
   ],
   "start_url": "/",
   "background_color": "#FFFFFF",
   "display": "standalone",
-  "scope": "/",
-  "theme_color": "#000000"
+  "scope": "/"
 }
