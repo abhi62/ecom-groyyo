@@ -3,7 +3,7 @@ const Footer = () => {
     <div className="footer">
       <div className="copyright-section">
         <h1 className="copyright-text">
-          <span>groyyo-ecom</span>
+          <span>assignment for groyyo-ecom</span>
         </h1>
       </div>
     </div>
