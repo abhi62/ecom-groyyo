@@ -9,7 +9,7 @@ const Section = ({ title, component }) => {
       <Head>
         <title>{title ? `${title} | groyyo-ecom` : "groyyo-ecom"} </title>
         <meta name="description" content="groyyo-ecom" />
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="manifest" href="/manifest.json" />
       </Head>
 
       <main className="main">
