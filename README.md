@@ -13,7 +13,7 @@ Api used for ecom data-> fakestoreapi.com
 ## Application Breakdown
 
 1. Part I : Design : Basic
-2. Part II : Routing : The app should have seamless routing with all products linking back to the homepage.You can use React router for most of the routing part.
+2. Part II : Routing : seamless routing with all products linking back to the homepage.
 3. Part III : Tech Stack : Nextjs with scss
 4. Part IV: State Management : Redux toolkit
 5. Pwa for mobile
